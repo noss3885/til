@@ -1,2 +1,3 @@
-# til
-Today I learned
+# Today I learned
+
+日々学んだこと、学ぶにあたって参考にした資料をメモします。
